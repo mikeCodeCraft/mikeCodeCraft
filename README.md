@@ -24,6 +24,7 @@ const developer = {
 
 💡 **What Drives Me**: Transforming complex problems into elegant solutions through code  
 🌟 **Vision**: Creating impactful applications that make a difference 
+
 ---
 
 ## 🛠️ Tech Stack & Skills
