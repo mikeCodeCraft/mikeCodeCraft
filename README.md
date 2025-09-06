@@ -21,7 +21,6 @@ const developer = {
 ```
 
 🎯 **My Journey**: 3+ years and still counting intensive training and expirience in Software Development 
-
 💡 **What Drives Me**: Transforming complex problems into elegant solutions through code  
 🌟 **Vision**: Creating impactful applications that make a difference 
 
