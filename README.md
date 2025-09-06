@@ -195,12 +195,12 @@ const developer = {
 **I'm actively seeking Junior Backend Developer opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adeoye-olumide)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoyesamuelolumide0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adeoyesamuel01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelokon565@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mikecodecraft.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mikeCodeCraft)
 
-📧 **Email**: adeoyesamuelolumide0@gmail.com  
-📱 **Phone**: +2347067216465 
+📧 **Email**: michaelokon565@gmail.com  
+📱 **Phone**: +2347062401262 
 🌍 **Location**: Nigeria (Open to remote opportunities)
 
 </div>
@@ -210,7 +210,7 @@ const developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-  **✨ "Turning ideas into code, one API at a time" ✨**
+  **✨ "Turning ideas and designs into code" ✨**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mikeCodeCraft&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
@@ -225,4 +225,4 @@ const developer = {
 
 ---
 
-<sub>💙 This README was generated with passion for backend development and a vision for impactful solutions</sub>
+
