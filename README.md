@@ -12,18 +12,17 @@
 const developer = {
     name: "Michael Barnabas Okon",
     role: "Backend Developer",
-    education: "ALX Software Engineering (Backend Dev & Backend ProDev)",
+    education: "ALX Software Engineering (Backend ProDev)",
     passion: ["Problem Solving", "API Development", "Inspiring Others"],
     mission: "Building applications that solve real-world problems",
-    currentGoal: "Seeking Junior/Entry-level Backend Developer opportunities",
+    currentGoal: "Seeking Junior/Entry-level Backend/Frontend Developer opportunities",
     availability: "Open to opportunities - Ready to start immediately"
 };
 ```
 
-🎯 **My Journey**: 7+ months and still counting intensive training in Backend Development through ALX's rigorous program  
+🎯 **My Journey**: 3+ years and still counting intensive training and expirience in Software Development 
 💡 **What Drives Me**: Transforming complex problems into elegant solutions through code  
-🌟 **Vision**: Creating impactful applications that make a difference in people's lives  
-
+🌟 **Vision**: Creating impactful applications that make a difference 
 ---
 
 ## 🛠️ Tech Stack & Skills
