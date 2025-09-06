@@ -63,7 +63,7 @@ const developer = {
 
 **Tech**: Django | Django Rest API | MongoDB | JWT 
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK](https://github.com/olumbah1/Alx_DjangoLearnLab.git))
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK](https://github.com/mikeCodeCraft/Alx_DjangoLearnLab.git))
 
 </td>
 <td width="50%">
@@ -118,12 +118,12 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olumbah1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olumbah1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeCodeCraft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeCodeCraft&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olumbah1&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikeCodeCraft&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -212,7 +212,7 @@ const developer = {
   
   **✨ "Turning ideas into code, one API at a time" ✨**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=olumbah1&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mikeCodeCraft&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 
 ---
@@ -220,7 +220,7 @@ const developer = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=olumbah1&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mikeCodeCraft&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
