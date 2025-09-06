@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olumide | Backend Developer
+# 👋 Hi, I'm mikeCodeCraft | Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Problem+Solver;ALX+Software+Engineering+Graduate;Building+APIs+that+Matter;Passionate+about+Clean+Code" alt="Typing SVG" />
